@@ -1,0 +1,36 @@
+{
+  "id": "3f5ee39a-ab2e-4d2e-8fe3-9ee125acaf21",
+  "parentId": "f6a5d34b-14a1-446d-9625-bdb8768c059f",
+  "rootParentId": "f6a5d34b-14a1-446d-9625-bdb8768c059f",
+  "name": "LocationStats - fallback",
+  "auto": false,
+  "contexts": [
+    "LocationStats-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "LocationStats.LocationStats-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "I think I am not ready for what you\u0027re asking. I can help you find stats for any country, state or any county!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

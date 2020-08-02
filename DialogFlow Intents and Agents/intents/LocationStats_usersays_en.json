@@ -1,0 +1,632 @@
+[
+  {
+    "id": "6c440943-6646-4c9e-8729-f2a3a36804d1",
+    "data": [
+      {
+        "text": "how many ",
+        "userDefined": false
+      },
+      {
+        "text": "cases",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Gainesville",
+        "alias": "city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2bfb5557-7d19-46ec-8fc1-002bbde8bb92",
+    "data": [
+      {
+        "text": "What are the number of ",
+        "userDefined": false
+      },
+      {
+        "text": "confirmed",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": false
+      },
+      {
+        "text": " cases in ",
+        "userDefined": false
+      },
+      {
+        "text": "Orleans Parish",
+        "alias": "county",
+        "meta": "@County",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "Louisiana",
+        "alias": "state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "abb305e2-dce4-4073-9114-3fd35763d345",
+    "data": [
+      {
+        "text": "how many people ",
+        "userDefined": false
+      },
+      {
+        "text": "have",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": false
+      },
+      {
+        "text": " coronavirus in ",
+        "userDefined": false
+      },
+      {
+        "text": "Gainesville",
+        "alias": "city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ce92315-f8e5-4250-9328-79be79c5e77f",
+    "data": [
+      {
+        "text": "how many people ",
+        "userDefined": false
+      },
+      {
+        "text": "have",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": false
+      },
+      {
+        "text": " corona virus in ",
+        "userDefined": false
+      },
+      {
+        "text": "USA",
+        "alias": "country",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e93c368c-6881-45ce-b0ae-bef665ad3690",
+    "data": [
+      {
+        "text": "how many people ",
+        "userDefined": false
+      },
+      {
+        "text": "have",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": false
+      },
+      {
+        "text": " cornona virus in ",
+        "userDefined": false
+      },
+      {
+        "text": "texas",
+        "alias": "state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f6a7ca9e-1ea0-4128-9b78-ce00bca53386",
+    "data": [
+      {
+        "text": "how many ",
+        "userDefined": false
+      },
+      {
+        "text": "cases",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": false
+      },
+      {
+        "text": " of coronavirus in ",
+        "userDefined": false
+      },
+      {
+        "text": "Texas",
+        "alias": "state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0f58b16f-8b6b-4aff-84c5-f102e3317879",
+    "data": [
+      {
+        "text": "how many ",
+        "userDefined": false
+      },
+      {
+        "text": "cases",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": false
+      },
+      {
+        "text": " of coronavirus ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ace963ee-5a93-4958-8602-eef12232f37c",
+    "data": [
+      {
+        "text": "what are the latest stats of ",
+        "userDefined": false
+      },
+      {
+        "text": "india",
+        "alias": "country",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "83f49a06-552b-47f0-87b3-ea49e6f495ca",
+    "data": [
+      {
+        "text": "how many ",
+        "userDefined": false
+      },
+      {
+        "text": "deaths",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "china",
+        "alias": "country",
+        "meta": "@sys.geo-country-code",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "830b8a8a-3645-4361-ad00-94f586856bf0",
+    "data": [
+      {
+        "text": "how many ",
+        "userDefined": false
+      },
+      {
+        "text": "cases",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "San Luis Obispo County",
+        "alias": "county",
+        "meta": "@County",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "California",
+        "alias": "state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2275c5e0-40ce-4472-8fb1-75c780db7982",
+    "data": [
+      {
+        "text": "how many ",
+        "userDefined": false
+      },
+      {
+        "text": "cases",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Santa Clara County",
+        "alias": "county",
+        "meta": "@County",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "California",
+        "alias": "state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5c741fb9-d98e-4e8e-b262-0c2c3c83aaa1",
+    "data": [
+      {
+        "text": "how many ",
+        "userDefined": false
+      },
+      {
+        "text": "cases",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "florida",
+        "alias": "state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "USA",
+        "alias": "country",
+        "meta": "@sys.geo-country-code",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4804f27e-6cda-46b8-b7f8-286b80499435",
+    "data": [
+      {
+        "text": "what is the ",
+        "userDefined": false
+      },
+      {
+        "text": "latest",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " condition in ",
+        "userDefined": false
+      },
+      {
+        "text": "New York",
+        "alias": "state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31ad65ff-2d75-4ea2-abb7-8a870b430728",
+    "data": [
+      {
+        "text": "what are the latest ",
+        "userDefined": false
+      },
+      {
+        "text": "stats",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "florida",
+        "alias": "state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e63641ff-cbea-4b80-a7c8-6a26823259f9",
+    "data": [
+      {
+        "text": "how many ",
+        "userDefined": false
+      },
+      {
+        "text": "deaths",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Alachua County",
+        "alias": "county",
+        "meta": "@County",
+        "userDefined": true
+      },
+      {
+        "text": " , ",
+        "userDefined": false
+      },
+      {
+        "text": "Florida",
+        "alias": "state",
+        "meta": "@sys.geo-state",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c18d383f-9527-489d-a757-66b6664380a6",
+    "data": [
+      {
+        "text": "how many ",
+        "userDefined": false
+      },
+      {
+        "text": "deaths",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "recovery",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "florida",
+        "alias": "state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d56a7a6b-3b8c-40d4-b04a-2e091973715f",
+    "data": [
+      {
+        "text": "How many ",
+        "userDefined": false
+      },
+      {
+        "text": "cases",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "florida",
+        "alias": "state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "510e4b06-b85e-47ae-b9c4-67ec8982046b",
+    "data": [
+      {
+        "text": "How many ",
+        "userDefined": false
+      },
+      {
+        "text": "cases",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "CA",
+        "alias": "state",
+        "meta": "@sys.geo-state",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84f74374-3f3e-4c44-878c-c9e43c09bf3e",
+    "data": [
+      {
+        "text": "how many ",
+        "userDefined": false
+      },
+      {
+        "text": "recovered",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "india",
+        "alias": "country",
+        "meta": "@sys.geo-country-code",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "6b48a254-3dc9-4568-ad67-b899b1097f9f",
+    "data": [
+      {
+        "text": "what are the ",
+        "userDefined": false
+      },
+      {
+        "text": "latest",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cases",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "gainesville",
+        "alias": "city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "florida",
+        "alias": "state",
+        "meta": "@sys.geo-state",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

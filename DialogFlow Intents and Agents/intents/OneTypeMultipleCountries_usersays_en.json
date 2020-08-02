@@ -1,0 +1,336 @@
+[
+  {
+    "id": "df194d23-96fb-48c7-9353-a3098e2ffe28",
+    "data": [
+      {
+        "text": "What are the latest stats for the ",
+        "userDefined": false
+      },
+      {
+        "text": "US",
+        "alias": "country",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "Canada",
+        "alias": "country",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ea66471-dadd-4c8c-9204-8dbea03c9130",
+    "data": [
+      {
+        "text": "how many ",
+        "userDefined": false
+      },
+      {
+        "text": "confirmed",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": false
+      },
+      {
+        "text": " cases of covid-19 in ",
+        "userDefined": false
+      },
+      {
+        "text": "San franciso",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d5616d69-60cc-48a7-bc26-14b6c9fc9c59",
+    "data": [
+      {
+        "text": "How many people ",
+        "userDefined": false
+      },
+      {
+        "text": "have",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": false
+      },
+      {
+        "text": " corona virus in ",
+        "userDefined": false
+      },
+      {
+        "text": "US",
+        "alias": "country",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "Mexico",
+        "alias": "country",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "Peru",
+        "alias": "country",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d6eef844-d231-4c13-8010-e923c62a149d",
+    "data": [
+      {
+        "text": "Give me the ",
+        "userDefined": false
+      },
+      {
+        "text": "cases",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": false
+      },
+      {
+        "text": " of Coronavirus in ",
+        "userDefined": false
+      },
+      {
+        "text": "Brazil",
+        "alias": "country",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "Australia",
+        "alias": "country",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7d60d430-d4dd-473a-b814-9c87ab74b80e",
+    "data": [
+      {
+        "text": "what are the latest stats in ",
+        "userDefined": false
+      },
+      {
+        "text": "US",
+        "alias": "country",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "Canada",
+        "alias": "country",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "China",
+        "alias": "country",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59537f8e-d10c-43d1-a765-236ac2d05bba",
+    "data": [
+      {
+        "text": "what are the ",
+        "userDefined": false
+      },
+      {
+        "text": "latest",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " stats in ",
+        "userDefined": false
+      },
+      {
+        "text": "US",
+        "alias": "country",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "Brazil",
+        "alias": "country",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c8da82f3-ae86-42b4-a094-72c0367920ff",
+    "data": [
+      {
+        "text": "How many ",
+        "userDefined": false
+      },
+      {
+        "text": "deaths",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "US",
+        "alias": "country",
+        "meta": "@sys.geo-country-code",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "Canada",
+        "alias": "country",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f153e32b-068a-4ea5-821e-9f4708c08ef0",
+    "data": [
+      {
+        "text": "how many ",
+        "userDefined": false
+      },
+      {
+        "text": "cases",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "US",
+        "alias": "country",
+        "meta": "@sys.geo-country-code",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "Canada",
+        "alias": "country",
+        "meta": "@sys.geo-country-code",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "and",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "India",
+        "alias": "country",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

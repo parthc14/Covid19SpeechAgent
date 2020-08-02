@@ -1,0 +1,9 @@
+{
+  "id": "a309b999-a150-4edb-8254-2138672bd609",
+  "name": "DATEANDTIME",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": true,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

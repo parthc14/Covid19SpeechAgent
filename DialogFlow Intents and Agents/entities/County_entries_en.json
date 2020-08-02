@@ -1,0 +1,38 @@
+[
+  {
+    "value": "([[:alpha:]]+) [cC]ounty",
+    "synonyms": [
+      "([[:alpha:]]+) [cC]ounty"
+    ]
+  },
+  {
+    "value": "([[:alpha:]]+) [pP]arish",
+    "synonyms": [
+      "([[:alpha:]]+) [pP]arish"
+    ]
+  },
+  {
+    "value": "([[:alpha:]]+) ([[:alpha:]]+) [cC]ounty",
+    "synonyms": [
+      "([[:alpha:]]+) ([[:alpha:]]+) [cC]ounty"
+    ]
+  },
+  {
+    "value": "([[:alpha:]]+) ([[:alpha:]]+) [pP]arish",
+    "synonyms": [
+      "([[:alpha:]]+) ([[:alpha:]]+) [pP]arish"
+    ]
+  },
+  {
+    "value": "([[:alpha:]]+) ([[:alpha:]]+) ([[:alpha:]]+) [cC]ounty",
+    "synonyms": [
+      "([[:alpha:]]+) ([[:alpha:]]+) ([[:alpha:]]+) [cC]ounty"
+    ]
+  },
+  {
+    "value": "([[:alpha:]]+) ([[:alpha:]]+) ([[:alpha:]]+) [pP]arish",
+    "synonyms": [
+      "([[:alpha:]]+) ([[:alpha:]]+) ([[:alpha:]]+) [pP]arish"
+    ]
+  }
+]

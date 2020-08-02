@@ -1,0 +1,418 @@
+[
+  {
+    "id": "fdf2fc76-e415-4f00-80f0-f2c069e0a167",
+    "data": [
+      {
+        "text": "what are the latest stats for ",
+        "userDefined": false
+      },
+      {
+        "text": "alachua county",
+        "alias": "county",
+        "meta": "@County",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "orange county",
+        "alias": "county",
+        "meta": "@County",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd225134-b7c8-40f9-b661-49d3ca9a05ae",
+    "data": [
+      {
+        "text": "What are the number of ",
+        "userDefined": false
+      },
+      {
+        "text": "confirmed",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": false
+      },
+      {
+        "text": " cases in ",
+        "userDefined": false
+      },
+      {
+        "text": "Orleans Parish",
+        "alias": "county",
+        "meta": "@County",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "Louisiana",
+        "alias": "state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b7b50348-84ec-49e0-93e4-fbe820ad01ee",
+    "data": [
+      {
+        "text": "how many people ",
+        "userDefined": false
+      },
+      {
+        "text": "have",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": false
+      },
+      {
+        "text": " corona virus in ",
+        "userDefined": false
+      },
+      {
+        "text": "Orange county",
+        "alias": "county",
+        "meta": "@County",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "Santa Clara County",
+        "alias": "county",
+        "meta": "@County",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8c8d7b88-839c-4396-be56-4547fe6c22d6",
+    "data": [
+      {
+        "text": "how many people have ",
+        "userDefined": false
+      },
+      {
+        "text": "died",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Alachua county",
+        "alias": "county",
+        "meta": "@County",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "Broome County",
+        "alias": "county",
+        "meta": "@County",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "970974a9-c271-4574-8b6e-c7936d7dd558",
+    "data": [
+      {
+        "text": "how many ",
+        "userDefined": false
+      },
+      {
+        "text": "cases",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Alachua County",
+        "alias": "county",
+        "meta": "@County",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "Broome County",
+        "alias": "county",
+        "meta": "@County",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1b22da2e-7bec-4af8-b821-fff2d4cd2bc5",
+    "data": [
+      {
+        "text": "how about latest stats in ",
+        "userDefined": false
+      },
+      {
+        "text": "Orange County",
+        "alias": "county",
+        "meta": "@County",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "Florida",
+        "alias": "state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "Broome County",
+        "alias": "county",
+        "meta": "@County",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "New York",
+        "alias": "state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b6ed4417-8cb6-409f-852e-7af61c43a0a5",
+    "data": [
+      {
+        "text": "how many ",
+        "userDefined": false
+      },
+      {
+        "text": "deaths",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Alachua County",
+        "alias": "county",
+        "meta": "@County",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "Florida",
+        "alias": "state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "Orange County",
+        "alias": "county",
+        "meta": "@County",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "Florida",
+        "alias": "state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7f0c3508-e700-4962-afef-95bf8f8e99a0",
+    "data": [
+      {
+        "text": "what are the latest stats in ",
+        "userDefined": false
+      },
+      {
+        "text": "Alacha County",
+        "alias": "county",
+        "meta": "@County",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "Florida",
+        "alias": "state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "Broome County",
+        "alias": "county",
+        "meta": "@County",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "New York",
+        "alias": "state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "Orange County",
+        "alias": "county",
+        "meta": "@County",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "Florida",
+        "alias": "state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f12e3014-7dfa-4b21-a306-e85094feb7d3",
+    "data": [
+      {
+        "text": "How many ",
+        "userDefined": false
+      },
+      {
+        "text": "cases",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Alachua County",
+        "alias": "county",
+        "meta": "@County",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "Florida",
+        "alias": "state",
+        "meta": "@sys.geo-state",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "Boward County",
+        "alias": "county",
+        "meta": "@County",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "Florida",
+        "alias": "state",
+        "meta": "@sys.geo-state",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

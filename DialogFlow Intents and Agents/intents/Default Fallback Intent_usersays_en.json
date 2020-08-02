@@ -1,0 +1,86 @@
+[
+  {
+    "id": "ef1eb59e-3426-461e-8488-c0be426014df",
+    "data": [
+      {
+        "text": "what are the cases in blahblah state?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "18effaa3-8804-47f5-b4f8-1b4d0696066d",
+    "data": [
+      {
+        "text": "what are the cases in blahblah country?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1535daca-6da3-40fc-908d-831660f5b60d",
+    "data": [
+      {
+        "text": "How many confirmed cases in blahblah county?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d9c859f4-8850-4a91-be70-c50ada655dea",
+    "data": [
+      {
+        "text": "How many confirmed cases in blahblah land?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "fad631f8-9d56-4e23-88c8-7240f3cbe000",
+    "data": [
+      {
+        "text": "gET ME OUT OF HERE!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "54637c03-eca9-492b-81b9-4fa17ea9f13b",
+    "data": [
+      {
+        "text": "asasaeasaSASASASA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5f8869a8-fc04-4ab7-9c42-06e668ec3a40",
+    "data": [
+      {
+        "text": "Why does a duck have feathers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

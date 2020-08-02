@@ -1,0 +1,9 @@
+{
+  "id": "ae22b108-b735-4107-8b75-664c52895629",
+  "name": "County",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": true,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
